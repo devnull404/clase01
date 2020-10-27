@@ -1,0 +1,33 @@
+form {
+    border: 1px dotted black;
+    width: 40%;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: white;
+    font-family: Helvetica;
+}
+
+input {
+    margin: 8px;
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+    width: 70%;
+    background-color: rgba(16, 255, 251, 0.105);
+}
+
+button {
+    background-color: #025157;
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+html {
+    background-color: #fffbf7;
+}
+
+h2 {
+    color: #46484c;
+
+}
