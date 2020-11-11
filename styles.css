@@ -21,6 +21,7 @@ button {
     color: #fff;
     padding: 10px;
     border-radius: 10px;
+    border: none;
 }
 
 html {
@@ -30,4 +31,8 @@ html {
 h2 {
     color: #46484c;
 
+}
+
+{
+	
 }
